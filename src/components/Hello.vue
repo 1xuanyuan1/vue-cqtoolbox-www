@@ -17,8 +17,8 @@ export default {
   data () {
     return {
       code: `
-<md-button class="md-raised md-primary">Hello</md-button>
-<md-button class="md-raised md-warn">Hello</md-button>
+<cq-button class="cq-raised cq-primary">Hello</cq-button>
+<cq-button class="cq-raised cq-warn">Hello</cq-button>
 `
     }
   }

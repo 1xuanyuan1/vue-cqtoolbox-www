@@ -19,7 +19,7 @@
     "highlight.js": "^9.10.0",
     "moment": "^2.18.1",
     "vue": "^2.2.2",
-    "vue-material": "^0.7.1",
+    "vue-cqtoolbox": "^0.0.1",
     "vue-router": "^2.3.0"
   },
   "devDependencies": {

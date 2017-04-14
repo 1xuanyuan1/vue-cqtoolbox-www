@@ -3,11 +3,12 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
-import VueMaterial from 'vue-material'
+import VueCqtoolbox from 'vue-cqtoolbox'
 
 Vue.config.productionTip = false
-Vue.use(VueMaterial)
-Vue.material.registerTheme({
+Vue.use(VueCqtoolbox)
+import 'vue-cqtoolbox/dist/vue-cqtoolbox.css'
+Vue.cqtool.registerTheme({
   default: {
     primary: 'cyan',
     warn: 'orange'

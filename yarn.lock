@@ -5776,6 +5776,12 @@ void-elements@^2.0.0:
   version "2.0.1"
   resolved "http://registry.npm.taobao.org/void-elements/download/void-elements-2.0.1.tgz#c066afb582bb1cb4128d60ea92392e94d5e9dbec"
 
+vue-cqtoolbox@^0.0.1:
+  version "0.0.1"
+  resolved "http://registry.npm.taobao.org/vue-cqtoolbox/download/vue-cqtoolbox-0.0.1.tgz#61b3a4edce9f2b27b00681c035ea7100c0b84763"
+  dependencies:
+    vue "^2.1.10"
+
 vue-hot-reload-api@^2.0.11:
   version "2.0.11"
   resolved "http://registry.npm.taobao.org/vue-hot-reload-api/download/vue-hot-reload-api-2.0.11.tgz#bf26374fb73366ce03f799e65ef5dfd0e28a1568"
